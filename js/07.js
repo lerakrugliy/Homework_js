@@ -7,7 +7,7 @@ array2[3] = "orange";
 console.log(array2);
 
 const array3 = [5, 10, 20, 32];
-sum = 0
+let sum = 0
 for (const num of array3) {
     sum += num;
 }
